@@ -9,9 +9,9 @@
 ## Screenshots
 
 <p align="center">
-  <img src="Assets/Screenshots/level20.jpg" width="30%">
-  <img src="Assets/Screenshots/pause_menu.jpg" width="30%">
-  <img src="Assets/Screenshots/fail.jpg" width="30%">
+  <img src="Assets/screenshots/level20.jpg" width="30%">
+  <img src="Assets/screenshots/pause_menu.jpg" width="30%">
+  <img src="Assets/screenshots/fail.jpg" width="30%">
 </p>
 
 ## Features
