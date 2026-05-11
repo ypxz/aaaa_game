@@ -9,9 +9,9 @@
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/screen1.png" width="30%">
-  <img src="Screenshots/screen2.png" width="30%">
-  <img src="Screenshots/screen3.png" width="30%">
+  <img src="Assets/Screenshots/level20.jpg" width="30%">
+  <img src="Assets/Screenshots/pause_menu.jpg" width="30%">
+  <img src="Assets/Screenshots/fail.jpg" width="30%">
 </p>
 
 ## Features
@@ -51,12 +51,6 @@ cd aaaa_game
 - Tap: primary action / jump / select
 - Swipe: move, dodge, or interact depending on level
 
-### Gamepad / Keyboard (Editor Testing)
-
-- `Space` / `Enter`: primary action
-- `Arrow keys` / `WASD`: move or navigate menus
-- `Esc`: pause / back
-
 ## Project Structure
 
 - `Assets/` - main Unity project assets and scenes
@@ -77,12 +71,7 @@ Contributions are welcome! If you want to help:
 
 Please keep changes small and focused for faster review.
 
-## License
-
-This project is available under the `LICENSE` placeholder. Update this with your chosen license.
-
 ## Credits / Acknowledgements
 
 - Built with Unity
 - Thanks to the Unity community for tutorials and inspiration
-- Screenshot placeholders and assets are organized in `Assets/screenshots/`
